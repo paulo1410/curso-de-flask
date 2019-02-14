@@ -1,9 +1,13 @@
-# curso-de-flask
-Repositório do curso de REST API with Flask and Pyhton
+# Flask REST API
+REST API with Flask and Pyhton
 
+# Installation
 ```
 pip install Flask
 python app.py
 ```
+## Implementation
+
+This project is implemented using Flask, and is a REST API for a store
 
 ## Enjoy!
